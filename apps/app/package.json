@@ -1,5 +1,5 @@
 {
-  "name": "@app/server",
+  "name": "@app-1/server",
   "private": true,
   "scripts": {
     "start": "nest start",
